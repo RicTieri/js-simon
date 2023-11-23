@@ -1,5 +1,5 @@
 const clockDisplay = document.getElementById('clock');
-const goalDay = new Date('Nov 23, 2023 19:53:00');
+const goalDay = new Date('Jan 1, 2024 00:00:00');
 
 // creare un output con intervallo di un secondo
 let clock = setInterval(function () {
